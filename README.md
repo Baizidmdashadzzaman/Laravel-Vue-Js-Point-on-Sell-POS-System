@@ -12,7 +12,7 @@
 
 ![Image](6.PNG?raw=true "Image")
 
-Video link :
+Video link : https://youtu.be/x4dhilZYbwY
 
 ### How Install
 
